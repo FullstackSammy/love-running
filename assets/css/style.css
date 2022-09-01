@@ -304,6 +304,7 @@ footer{
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+    cursor: pointer;
 }
 
 /* Media queries */
